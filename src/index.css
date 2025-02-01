@@ -1,0 +1,20 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base{
+    @font-face {
+        font-family: 'SM';
+        src: url("./assets/fonts/Saans-Medium.woff2") format("woff2")
+    }
+
+    @font-face {
+        font-family: 'SR';
+        src: url("./assets/fonts/Saans-Regular.woff2") format("woff2")
+    }
+
+    @font-face {
+        font-family: 'LO';
+        src: url("./assets/fonts/L0x-DF02iFML4hGCyMqlbS0.woff2") format("woff2")
+    }
+}
