@@ -10,8 +10,8 @@ const Careers = () => {
             <button
               className="flex items-center justify-between rounded-full text-lg px-6 py-2 border-2 border-black"
             >
-              <span className="bg-black text-white px-3 py-2 rounded-full mr-2">@</span> 
-              Email Careers
+              <span className="bg-black text-white px-4 py-2 rounded-full mr-2">@</span> 
+              Email DS Careers
             </button>
           </div>
 
